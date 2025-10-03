@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "next": "^15.5.4",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "name": "tabnews-clone",
+  "version": "1.0.0",
+  "description": "Esse repositório é uma clonagem de um sistema chamado de tabnews",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev" : "next dev"
+  },
+  "author": "",
+  "license": "MIT"
+}
